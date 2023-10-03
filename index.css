@@ -1,0 +1,34 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+.trendyol{
+    width: 200px;
+    height: 100px;
+    
+}
+.secim{
+ display: flex;
+ justify-content: center;
+ width: 15px;
+ height: 30px;   
+ margin-left: 500px;
+}
+.flex-container{
+    color: black; 
+    display: flex;
+    justify-content: space-around;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.aramabtn{
+    width: 500px;
+    height: 50px;
+    margin-left: 500px;
+    margin bottom: 100%;
+}
+.abc{
+    width: 15px;
+    height: 15px;
+}
